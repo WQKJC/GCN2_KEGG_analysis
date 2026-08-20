@@ -1,0 +1,256 @@
+id,Term,Classification_level1,Classification_level2,ListHits,ListTotal,PopHits,PopTotal,p-value,q-value,Enrichment_score,geneID,hyperlink_only_excel
+rno00010,Glycolysis / Gluconeogenesis,Metabolism,Carbohydrate metabolism,1,218,68,9012,0.812023431,0.973659065,0.607933081,Hk2,rno00010
+rno00030,Pentose phosphate pathway,Metabolism,Carbohydrate metabolism,1,218,30,9012,0.520887466,0.862508467,1.377981651,Tkt,rno00030
+rno00051,Fructose and mannose metabolism,Metabolism,Carbohydrate metabolism,1,218,36,9012,0.586576278,0.891459877,1.148318043,Hk2,rno00051
+rno00052,Galactose metabolism,Metabolism,Carbohydrate metabolism,2,218,32,9012,0.180744644,0.465554386,2.583715596,Mgam;Hk2,rno00052
+rno00100,Steroid biosynthesis,Metabolism,Lipid metabolism,1,218,20,9012,0.387539262,0.715174672,2.066972477,Cel,rno00100
+rno00140,Steroid hormone biosynthesis,Metabolism,Lipid metabolism,2,218,84,9012,0.607211997,0.892323739,0.984272608,Cyp2e1;Hsd11b2,rno00140
+rno00190,Oxidative phosphorylation,Metabolism,Energy metabolism,1,218,137,9012,0.965974943,1,0.301747807,Ndufa10l1,rno00190
+rno00220,Arginine biosynthesis,Metabolism,Amino acid metabolism,1,218,19,9012,0.372323714,0.713853737,2.175760502,Nos2,rno00220
+rno00230,Purine metabolism,Metabolism,Nucleotide metabolism,4,218,131,9012,0.391237256,0.715174672,1.262273268,Xdh;Rrm2;Dck;Ak8,rno00230
+rno00232,Caffeine metabolism,Metabolism,Biosynthesis of other secondary metabolites,1,218,6,9012,0.136676143,0.405260655,6.889908257,Xdh,rno00232
+rno00240,Pyrimidine metabolism,Metabolism,Nucleotide metabolism,3,218,55,9012,0.147511207,0.413355581,2.254879066,Rrm2;Dck;Upp1,rno00240
+rno00260,"Glycine, serine and threonine metabolism",Metabolism,Amino acid metabolism,1,218,39,9012,0.615976263,0.892323739,1.059985886,Cbs,rno00260
+rno00270,Cysteine and methionine metabolism,Metabolism,Amino acid metabolism,2,218,51,9012,0.350748322,0.705269347,1.621154884,Bcat1;Cbs,rno00270
+rno00280,"Valine, leucine and isoleucine degradation",Metabolism,Amino acid metabolism,3,218,56,9012,0.153254624,0.424570435,2.214613368,Bcat1;Aox1;Aox4,rno00280
+rno00330,Arginine and proline metabolism,Metabolism,Amino acid metabolism,2,218,52,9012,0.359549079,0.705269347,1.589978829,Nos2;Smox,rno00330
+rno00350,Tyrosine metabolism,Metabolism,Amino acid metabolism,3,218,38,9012,0.063422314,0.251849128,3.263640753,Ddc;Aox1;Aox4,rno00350
+rno00360,Phenylalanine metabolism,Metabolism,Amino acid metabolism,1,218,18,9012,0.356731937,0.705269347,2.296636086,Ddc,rno00360
+rno00380,Tryptophan metabolism,Metabolism,Amino acid metabolism,4,218,51,9012,0.0343506,0.159261874,3.242309768,Inmt;Ddc;Aox1;Aox4,rno00380
+rno00410,beta-Alanine metabolism,Metabolism,Metabolism of other amino acids,1,218,31,9012,0.532515893,0.862831672,1.33353063,Smox,rno00410
+rno00430,Taurine and hypotaurine metabolism,Metabolism,Metabolism of other amino acids,2,218,22,9012,0.098097834,0.338039835,3.758131776,Fmo5;Fmo3,rno00430
+rno00450,Selenocompound metabolism,Metabolism,Metabolism of other amino acids,1,218,17,9012,0.340754674,0.705269347,2.431732326,Inmt,rno00450
+rno00480,Glutathione metabolism,Metabolism,Metabolism of other amino acids,1,218,72,9012,0.829693937,0.973659065,0.574159021,Rrm2,rno00480
+rno00500,Starch and sucrose metabolism,Metabolism,Carbohydrate metabolism,2,218,32,9012,0.180744644,0.465554386,2.583715596,Mgam;Hk2,rno00500
+rno00520,Amino sugar and nucleotide sugar metabolism,Metabolism,Carbohydrate metabolism,1,218,51,9012,0.714174974,0.953479677,0.810577442,Hk2,rno00520
+rno00524,"Neomycin, kanamycin and gentamicin biosynthesis",Metabolism,Biosynthesis of other secondary metabolites,1,218,5,9012,0.115262489,0.364542816,8.267889908,Hk2,rno00524
+rno00531,Glycosaminoglycan degradation,Metabolism,Glycan biosynthesis and metabolism,1,218,20,9012,0.387539262,0.715174672,2.066972477,Hyal1,rno00531
+rno00561,Glycerolipid metabolism,Metabolism,Lipid metabolism,3,218,64,9012,0.20146334,0.498064507,1.937786697,Dgat2;Gpat3;Cel,rno00561
+rno00562,Inositol phosphate metabolism,Metabolism,Carbohydrate metabolism,1,218,73,9012,0.833846814,0.973659065,0.566293829,Pik3cd,rno00562
+rno00564,Glycerophospholipid metabolism,Metabolism,Lipid metabolism,2,218,98,9012,0.690463874,0.936533447,0.843662236,Gpat3;Mboat7,rno00564
+rno00565,Ether lipid metabolism,Metabolism,Lipid metabolism,1,218,47,9012,0.68459239,0.933535077,0.879562756,Pla2g7,rno00565
+rno00590,Arachidonic acid metabolism,Metabolism,Lipid metabolism,2,218,81,9012,0.587314742,0.891459877,1.020727149,Cyp2e1;Ltc4s,rno00590
+rno00591,Linoleic acid metabolism,Metabolism,Lipid metabolism,1,218,40,9012,0.625306161,0.892323739,1.033486239,Cyp2e1,rno00591
+rno00600,Sphingolipid metabolism,Metabolism,Lipid metabolism,1,218,56,9012,0.747298297,0.970351456,0.738204456,RGD1564463,rno00600
+rno00650,Butanoate metabolism,Metabolism,Carbohydrate metabolism,1,218,27,9012,0.484246287,0.814270756,1.531090724,Acsm5,rno00650
+rno00670,One carbon pool by folate,Metabolism,Metabolism of cofactors and vitamins,1,218,18,9012,0.356731937,0.705269347,2.296636086,Mthfd1l,rno00670
+rno00730,Thiamine metabolism,Metabolism,Metabolism of cofactors and vitamins,1,218,17,9012,0.340754674,0.705269347,2.431732326,Ak8,rno00730
+rno00750,Vitamin B6 metabolism,Metabolism,Metabolism of cofactors and vitamins,2,218,10,9012,0.02306458,0.120029956,8.267889908,Aox1;Aox4,rno00750
+rno00760,Nicotinate and nicotinamide metabolism,Metabolism,Metabolism of cofactors and vitamins,2,218,38,9012,0.234089349,0.542661672,2.175760502,Aox1;Aox4,rno00760
+rno00770,Pantothenate and CoA biosynthesis,Metabolism,Metabolism of cofactors and vitamins,1,218,21,9012,0.402387621,0.717544359,1.968545216,Bcat1,rno00770
+rno00830,Retinol metabolism,Metabolism,Metabolism of cofactors and vitamins,3,218,86,9012,0.345383453,0.705269347,1.442073821,Aox1;Aox4;Dhrs9,rno00830
+rno00980,Metabolism of xenobiotics by cytochrome P450,Metabolism,Xenobiotics biodegradation and metabolism,1,218,76,9012,0.845710249,0.973659065,0.543940126,Cyp2e1,rno00980
+rno00982,Drug metabolism - cytochrome P450,Metabolism,Xenobiotics biodegradation and metabolism,5,218,73,9012,0.0314927,0.154435356,2.831469147,Cyp2e1;Fmo5;Aox1;Aox4;Fmo3,rno00982
+rno00983,Drug metabolism - other enzymes,Metabolism,Xenobiotics biodegradation and metabolism,4,218,95,9012,0.197696488,0.498064507,1.740608402,Xdh;Rrm2;Cyp2e1;Upp1,rno00983
+rno01040,Biosynthesis of unsaturated fatty acids,Metabolism,Lipid metabolism,1,218,34,9012,0.565742241,0.881125522,1.215866163,Scd,rno01040
+rno01521,EGFR tyrosine kinase inhibitor resistance,Human Diseases,Drug resistance: antineoplastic,4,218,80,9012,0.12823313,0.389279144,2.066972477,Il6r;Eif4ebp1;Pik3cd;Pdgfd,rno01521
+rno01522,Endocrine resistance,Human Diseases,Drug resistance: antineoplastic,3,218,94,9012,0.398254131,0.715174672,1.319344134,Mmp9;E2f2;Pik3cd,rno01522
+rno01523,Antifolate resistance,Human Diseases,Drug resistance: antineoplastic,2,218,29,9012,0.154843335,0.424570435,2.85099652,Il1b;Tnf,rno01523
+rno01524,Platinum drug resistance,Human Diseases,Drug resistance: antineoplastic,3,218,82,9012,0.318757397,0.671761456,1.512418886,Birc3;Bid;Pik3cd,rno01524
+rno02010,ABC transporters,Environmental Information Processing,Membrane transport,1,218,55,9012,0.74099449,0.968992794,0.751626355,Abcb1b,rno02010
+rno03250,Viral life cycle - HIV-1,Genetic Information Processing,Information processing in viruses,1,218,63,9012,0.787348506,0.973659065,0.656181739,Samhd1,rno03250
+rno03266,Virion - Herpesvirus,Genetic Information Processing,Information processing in viruses,1,218,15,9012,0.307605513,0.659154672,2.755963303,RGD1561730,rno03266
+rno03267,Virion - Adenovirus,Genetic Information Processing,Information processing in viruses,1,218,5,9012,0.115262489,0.364542816,8.267889908,Cd80,rno03267
+rno03320,PPAR signaling pathway,Organismal Systems,Endocrine system,2,218,86,9012,0.620069474,0.892323739,0.961382547,Scd;Angptl4,rno03320
+rno04010,MAPK signaling pathway,Environmental Information Processing,Signal transduction,14,218,301,9012,0.014471056,0.094618445,1.922765095,Il1b;Cdc25b;Tnfrsf1a;Myd88;Dusp5;Nr4a1;Relb;Rasgrp4;Tnf;Rac2;Pdgfd;Map3k8;Il1rap;Cd14,rno04010
+rno04012,ErbB signaling pathway,Environmental Information Processing,Signal transduction,2,218,85,9012,0.613681427,0.892323739,0.97269293,Eif4ebp1;Pik3cd,rno04012
+rno04014,Ras signaling pathway,Environmental Information Processing,Signal transduction,5,218,233,9012,0.669523766,0.93192742,0.887112651,Rasa3;Rasgrp4;Rac2;Pik3cd;Pdgfd,rno04014
+rno04015,Rap1 signaling pathway,Environmental Information Processing,Signal transduction,8,218,213,9012,0.144767087,0.413355581,1.552655382,Fpr1;Itgam;Rgs14;Lcp2;Rac2;Pik3cd;Pdgfd;Fyb1,rno04015
+rno04020,Calcium signaling pathway,Environmental Information Processing,Signal transduction,7,218,251,9012,0.405442889,0.717971783,1.152893015,Nos2;Ptafr;Hrh1;Ptk2b;P2rx1;Tnnc1;Pdgfd,rno04020
+rno04022,cGMP-PKG signaling pathway,Environmental Information Processing,Signal transduction,2,218,170,9012,0.920799126,1,0.486346465,Atp1a3;Kcnmb4,rno04022
+rno04024,cAMP signaling pathway,Environmental Information Processing,Signal transduction,5,218,220,9012,0.61934427,0.892323739,0.939532944,Hcar2;Atp1a3;Rac2;Pik3cd;Ptger2,rno04024
+rno04060,Cytokine-cytokine receptor interaction,Environmental Information Processing,Signaling molecules and interaction,25,218,270,9012,6.92E-09,8.82E-07,3.827726809,Il1b;Cxcr2;Csf3r;Il1r2;Tnfrsf1a;Il1rn;Osm;Csf2rb;Ccr1l1;Tnfrsf1b;Il18rap;Ebi3;Il6r;Tnfsf14;Il17ra;Il10ra;Ltb;Ccr3;Relt;Ccr2;Il6st;Tnf;Il1rap;Cxcr5;Il1rl2,rno04060
+rno04061,Viral protein interaction with cytokine and cytokine receptor,Environmental Information Processing,Signaling molecules and interaction,13,218,85,9012,1.08E-07,6.88E-06,6.322504047,Cxcr2;Tnfrsf1a;Ccr1l1;Tnfrsf1b;Il18rap;Il6r;Tnfsf14;Il10ra;Ccr3;Ccr2;Il6st;Tnf;Cxcr5,rno04061
+rno04062,Chemokine signaling pathway,Organismal Systems,Immune system,13,218,181,9012,0.000436793,0.005569107,2.969131735,Cxcr2;Fgr;Ccr1l1;Was;Ncf1;Ccr3;Ccr2;Ptk2b;Rac2;Pik3cd;Jak3;Hck;Cxcr5,rno04062
+rno04064,NF-kappa B signaling pathway,Environmental Information Processing,Signal transduction,11,218,98,9012,2.28E-05,0.000415196,4.640142295,Il1b;Tnfaip3;Tnfrsf1a;Birc3;Myd88;Tnfsf14;Ltb;Syk;Relb;Tnf;Cd14,rno04064
+rno04066,HIF-1 signaling pathway,Environmental Information Processing,Signal transduction,6,218,113,9012,0.05599878,0.237994815,2.19501502,Nos2;Il6r;Tf;Eif4ebp1;Hk2;Pik3cd,rno04066
+rno04068,FoxO signaling pathway,Environmental Information Processing,Signal transduction,5,218,132,9012,0.215273747,0.52199206,1.56588824,Cdkn2d;S1pr4;Agap2;Pik3cd;Sod2,rno04068
+rno04070,Phosphatidylinositol signaling system,Environmental Information Processing,Signal transduction,1,218,94,9012,0.901127031,0.990462901,0.439781378,Pik3cd,rno04070
+rno04071,Sphingolipid signaling pathway,Environmental Information Processing,Signal transduction,9,218,126,9012,0.003426515,0.027305044,2.952817824,Tnfrsf1a;S1pr4;RGD1564463;Fcer1g;Tnf;Bid;Rac2;Pik3cd;S1pr5,rno04071
+rno04072,Phospholipase D signaling pathway,Environmental Information Processing,Signal transduction,7,218,150,9012,0.071537027,0.27639306,1.929174312,Cxcr2;Syk;Cyth4;Ptk2b;Fcer1g;Pik3cd;Pdgfd,rno04072
+rno04080,Neuroactive ligand-receptor interaction,Environmental Information Processing,Signaling molecules and interaction,18,218,390,9012,0.006378541,0.046472227,1.907974594,Ptafr;Fpr1;F2rl2;Npy4r;Fpr2;Gpr35;Cnr2;Nmur1;Hrh1;Tspo;S1pr4;Grik4;Insl3;P2rx1;P2ry13;Ptger2;S1pr5;Ptgir,rno04080
+rno04110,Cell cycle,Cellular Processes,Cell growth and death,3,218,156,9012,0.732880786,0.963322682,0.794989414,Cdc25b;Cdkn2d;E2f2,rno04110
+rno04114,Oocyte meiosis,Cellular Processes,Cell growth and death,1,218,118,9012,0.945451475,1,0.350334318,Aurka,rno04114
+rno04115,p53 signaling pathway,Cellular Processes,Cell growth and death,2,218,73,9012,0.530686781,0.862831672,1.132587659,Rrm2;Bid,rno04115
+rno04120,Ubiquitin mediated proteolysis,Genetic Information Processing,"Folding, sorting and degradation",2,218,144,9012,0.867679647,0.985820929,0.574159021,Socs3;Birc3,rno04120
+rno04130,SNARE interactions in vesicular transport,Genetic Information Processing,"Folding, sorting and degradation",1,218,34,9012,0.565742241,0.881125522,1.215866163,Stx19,rno04130
+rno04140,Autophagy - animal,Cellular Processes,Transport and catabolism,1,218,170,9012,0.985047444,1,0.243173233,Pik3cd,rno04140
+rno04142,Lysosome,Cellular Processes,Transport and catabolism,2,218,134,9012,0.839691716,0.973659065,0.61700671,Hyal1;Slc11a1,rno04142
+rno04144,Endocytosis,Cellular Processes,Transport and catabolism,5,218,271,9012,0.790124471,0.973659065,0.762720471,Cxcr2;Cav3;Cyth4;Agap2;Arpc1b,rno04144
+rno04145,Phagosome,Cellular Processes,Transport and catabolism,9,218,183,9012,0.033515104,0.15826577,2.033087682,Ncf4;Tlr2;Itgam;Fcgr1a;Coro1a;Ncf1;Ncf2;Tlr6;Cd14,rno04145
+rno04146,Peroxisome,Cellular Processes,Transport and catabolism,3,218,88,9012,0.358670198,0.705269347,1.409299416,Nos2;Xdh;Sod2,rno04146
+rno04150,mTOR signaling pathway,Environmental Information Processing,Signal transduction,4,218,158,9012,0.534515615,0.862831672,1.046568343,Tnfrsf1a;Eif4ebp1;Tnf;Pik3cd,rno04150
+rno04151,PI3K-Akt signaling pathway,Environmental Information Processing,Signal transduction,13,218,349,9012,0.080788563,0.30295711,1.539864883,Csf3r;Tlr2;Itgb7;Osm;Il6r;Syk;Tnc;Nr4a1;Eif4ebp1;Col9a2;Pik3cd;Pdgfd;Jak3,rno04151
+rno04152,AMPK signaling pathway,Environmental Information Processing,Signal transduction,3,218,125,9012,0.58646787,0.891459877,0.992146789,Scd;Eif4ebp1;Pik3cd,rno04152
+rno04210,Apoptosis,Cellular Processes,Cell growth and death,6,218,135,9012,0.108942883,0.360784872,1.837308869,Tnfrsf1a;Birc3;Csf2rb;Tnf;Bid;Pik3cd,rno04210
+rno04211,Longevity regulating pathway,Organismal Systems,Aging,3,218,90,9012,0.371919894,0.713853737,1.377981651,Eif4ebp1;Pik3cd;Sod2,rno04211
+rno04213,Longevity regulating pathway - multiple species,Organismal Systems,Aging,2,218,63,9012,0.452882676,0.775067667,1.312363478,Pik3cd;Sod2,rno04213
+rno04215,Apoptosis - multiple species,Cellular Processes,Cell growth and death,3,218,33,9012,0.044736873,0.196687978,3.758131776,Tnfrsf1a;Birc3;Bid,rno04215
+rno04216,Ferroptosis,Cellular Processes,Cell growth and death,1,218,41,9012,0.634410402,0.893782611,1.008279257,Tf,rno04216
+rno04217,Necroptosis,Cellular Processes,Cell growth and death,8,218,160,9012,0.040268653,0.180149236,2.066972477,Il1b;Nlrp3;Tnfaip3;Tnfrsf1a;Birc3;Tnf;Bid;Jak3,rno04217
+rno04218,Cellular senescence,Cellular Processes,Cell growth and death,3,218,181,9012,0.818633897,0.973659065,0.685184247,E2f2;Eif4ebp1;Pik3cd,rno04218
+rno04260,Cardiac muscle contraction,Organismal Systems,Circulatory system,2,218,87,9012,0.626376272,0.892323739,0.950332173,Atp1a3;Tnnc1,rno04260
+rno04261,Adrenergic signaling in cardiomyocytes,Organismal Systems,Circulatory system,3,218,151,9012,0.712367481,0.953479677,0.821313567,Atp1a3;Scn7a;Tnnc1,rno04261
+rno04270,Vascular smooth muscle contraction,Organismal Systems,Circulatory system,2,218,138,9012,0.851474398,0.973659065,0.599122457,Kcnmb4;Ptgir,rno04270
+rno04310,Wnt signaling pathway,Environmental Information Processing,Signal transduction,2,218,172,9012,0.923923211,1,0.480691274,Frzb;Rac2,rno04310
+rno04350,TGF-beta signaling pathway,Environmental Information Processing,Signal transduction,2,218,110,9012,0.749808608,0.970351456,0.751626355,Tf;Tnf,rno04350
+rno04360,Axon guidance,Organismal Systems,Development and regeneration,5,218,181,9012,0.446250779,0.768878031,1.141973744,Sema4d;Fes;Rac2;Pik3cd;Sema6b,rno04360
+rno04370,VEGF signaling pathway,Environmental Information Processing,Signal transduction,2,218,58,9012,0.411334549,0.723381448,1.42549826,Rac2;Pik3cd,rno04370
+rno04371,Apelin signaling pathway,Environmental Information Processing,Signal transduction,1,218,136,9012,0.965118226,1,0.303966541,Nos2,rno04371
+rno04380,Osteoclast differentiation,Organismal Systems,Development and regeneration,21,218,129,9012,3.21E-12,8.18E-10,6.729677832,Il1b;Oscar;Lilrb1;Socs3;Lilrb4;Ncf4;Lilrb2;Tnfrsf1a;Lilrc2;Junb;Fcgr1a;Tyrobp;Ncf1;Syk;Fosl2;Ncf2;Relb;Lcp2;Tnf;Spi1;Pik3cd,rno04380
+rno04390,Hippo signaling pathway,Environmental Information Processing,Signal transduction,1,218,157,9012,0.97932024,1,0.263308596,Birc3,rno04390
+rno04510,Focal adhesion,Cellular Processes,Cellular community - eukaryotes,8,218,201,9012,0.114389699,0.364542816,1.645351226,Cav3;Itgb7;Birc3;Tnc;Col9a2;Rac2;Pik3cd;Pdgfd,rno04510
+rno04512,ECM-receptor interaction,Environmental Information Processing,Signaling molecules and interaction,3,218,88,9012,0.358670198,0.705269347,1.409299416,Itgb7;Tnc;Col9a2,rno04512
+rno04514,Cell adhesion molecules,Environmental Information Processing,Signaling molecules and interaction,13,218,179,9012,0.00039246,0.00526722,3.002306391,Sell;Pdcd1;Sele;Selp;Itgam;Itgb7;Selplg;Vsir;Cldn8;Cd22;Cd80;Cldn15;Vcan,rno04514
+rno04520,Adherens junction,Cellular Processes,Cellular community - eukaryotes,2,218,93,9012,0.662523199,0.928260527,0.88902042,Was;Rac2,rno04520
+rno04530,Tight junction,Cellular Processes,Cellular community - eukaryotes,5,218,168,9012,0.383860699,0.715174672,1.23034076,Was;Cldn8;Hcls1;Arpc1b;Cldn15,rno04530
+rno04540,Gap junction,Cellular Processes,Cellular community - eukaryotes,1,218,87,9012,0.882434219,0.985820929,0.475166087,Pdgfd,rno04540
+rno04550,Signaling pathways regulating pluripotency of stem cells,Cellular Processes,Cellular community - eukaryotes,3,218,142,9012,0.672449589,0.93192742,0.873368652,Il6st;Pik3cd;Jak3,rno04550
+rno04610,Complement and coagulation cascades,Organismal Systems,Immune system,4,218,87,9012,0.159264132,0.432046315,1.900664347,F2rl2;Itgam;Cfd;F5,rno04610
+rno04611,Platelet activation,Organismal Systems,Immune system,6,218,125,9012,0.082430386,0.304634035,1.984293578,Syk;P2rx1;Fcer1g;Lcp2;Pik3cd;Ptgir,rno04611
+rno04612,Antigen processing and presentation,Organismal Systems,Immune system,1,218,85,9012,0.876474494,0.985820929,0.486346465,Tnf,rno04612
+rno04613,Neutrophil extracellular trap formation,Organismal Systems,Immune system,16,218,180,9012,6.93E-06,0.000201079,3.674617737,Fpr1;Ncf4;Tlr2;Selp;Itgam;Fpr2;Fcgr1a;Selplg;Padi4;Camp;Ncf1;Syk;Ncf2;Rac2;Aqp9;Pik3cd,rno04613
+rno04620,Toll-like receptor signaling pathway,Organismal Systems,Immune system,11,218,93,9012,1.38E-05,0.000319632,4.889612311,Il1b;Tlr1;Tlr2;Myd88;Tnf;Pik3cd;Cd80;Map3k8;Tlr6;Irf5;Cd14,rno04620
+rno04621,NOD-like receptor signaling pathway,Organismal Systems,Immune system,13,218,178,9012,0.000371769,0.00526722,3.019173281,Nlrp12;Il1b;Nlrp3;Mefv;Tnfaip3;Birc3;Myd88;Pstpip1;Oas3;Camp;Tnf;Trpm2;Nlrc4,rno04621
+rno04622,RIG-I-like receptor signaling pathway,Organismal Systems,Immune system,1,218,62,9012,0.782039524,0.973659065,0.666765315,Tnf,rno04622
+rno04623,Cytosolic DNA-sensing pathway,Organismal Systems,Immune system,4,218,67,9012,0.078585906,0.299095611,2.468026838,Il1b;Nlrp3;Mefv;Samhd1,rno04623
+rno04625,C-type lectin receptor signaling pathway,Organismal Systems,Immune system,12,218,113,9012,1.71E-05,0.000362552,4.39003004,Il1b;Clec4e;Clec4d;Clec4b2;Nlrp3;Bcl3;Syk;Relb;Fcer1g;Tnf;Lsp1;Pik3cd,rno04625
+rno04630,JAK-STAT signaling pathway,Environmental Information Processing,Signal transduction,12,218,160,9012,0.000490594,0.005957218,3.100458716,Csf3r;Socs3;Pim1;Osm;Csf2rb;Il6r;Il10ra;Aox1;Aox4;Il6st;Pik3cd;Jak3,rno04630
+rno04640,Hematopoietic cell lineage,Organismal Systems,Immune system,11,218,90,9012,1.00E-05,0.000255695,5.052599388,Il1b;Csf3r;Il1r2;Itgam;Fcgr1a;Cd33;Il6r;Tnf;Cd22;Cd37;Cd14,rno04640
+rno04650,Natural killer cell mediated cytotoxicity,Organismal Systems,Immune system,11,218,133,9012,0.000366366,0.00526722,3.419052218,Tyrobp;Syk;Ptk2b;Fcer1g;Lcp2;Tnf;Bid;Rac2;Hcst;Pik3cd;Ncr3,rno04650
+rno04657,IL-17 signaling pathway,Organismal Systems,Immune system,7,218,92,9012,0.006775214,0.047991102,3.1453929,Il1b;S100a9;S100a8;Tnfaip3;Mmp9;Il17ra;Tnf,rno04657
+rno04658,Th1 and Th2 cell differentiation,Organismal Systems,Immune system,1,218,88,9012,0.885305854,0.985820929,0.469766472,Jak3,rno04658
+rno04659,Th17 cell differentiation,Organismal Systems,Immune system,6,218,104,9012,0.04007013,0.180149236,2.384968243,Il1b;Ebi3;Il6r;Il6st;Jak3;Il1rap,rno04659
+rno04660,T cell receptor signaling pathway,Organismal Systems,Immune system,5,218,121,9012,0.169224316,0.453930107,1.708241717,Pdcd1;Lcp2;Tnf;Pik3cd;Map3k8,rno04660
+rno04662,B cell receptor signaling pathway,Organismal Systems,Immune system,8,218,79,9012,0.000614924,0.006817631,4.186273371,Lilrb1;Lilrb4;Lilrb2;Lilrc2;Syk;Cd22;Rac2;Pik3cd,rno04662
+rno04664,Fc epsilon RI signaling pathway,Organismal Systems,Immune system,7,218,66,9012,0.001020651,0.010010232,4.384487073,Alox5ap;Syk;Fcer1g;Lcp2;Tnf;Rac2;Pik3cd,rno04664
+rno04666,Fc gamma R-mediated phagocytosis,Organismal Systems,Immune system,8,218,95,9012,0.002060471,0.018117937,3.481216803,Fcgr1a;Was;Ncf1;Syk;Arpc1b;Rac2;Pik3cd;Hck,rno04666
+rno04668,TNF signaling pathway,Environmental Information Processing,Signal transduction,13,218,113,9012,3.08E-06,0.000131087,4.755865876,Il1b;Socs3;Tnfaip3;Mmp9;Sele;Tnfrsf1a;Bcl3;Birc3;Junb;Tnfrsf1b;Tnf;Pik3cd;Map3k8,rno04668
+rno04670,Leukocyte transendothelial migration,Organismal Systems,Immune system,10,218,118,9012,0.000557277,0.006459342,3.503343181,Ncf4;Mmp9;Itgam;Ncf1;Ncf2;Cldn8;Ptk2b;Rac2;Pik3cd;Cldn15,rno04670
+rno04672,Intestinal immune network for IgA production,Organismal Systems,Immune system,2,218,43,9012,0.279192272,0.608495976,1.922765095,Itgb7;Cd80,rno04672
+rno04710,Circadian rhythm,Organismal Systems,Environmental adaptation,2,218,34,9012,0.198350561,0.498064507,2.431732326,Dbp;Npas2,rno04710
+rno04714,Thermogenesis,Organismal Systems,Environmental adaptation,1,218,233,9012,0.996915052,1,0.17742253,Ndufa10l1,rno04714
+rno04722,Neurotrophin signaling pathway,Organismal Systems,Nervous system,2,218,120,9012,0.791563894,0.973659065,0.688990826,Irak3;Pik3cd,rno04722
+rno04723,Retrograde endocannabinoid signaling,Organismal Systems,Nervous system,1,218,148,9012,0.9741226,1,0.279320605,Ndufa10l1,rno04723
+rno04724,Glutamatergic synapse,Organismal Systems,Nervous system,1,218,114,9012,0.93976054,1,0.36262675,Grik4,rno04724
+rno04725,Cholinergic synapse,Organismal Systems,Nervous system,1,218,112,9012,0.936697225,1,0.369102228,Pik3cd,rno04725
+rno04726,Serotonergic synapse,Organismal Systems,Nervous system,1,218,122,9012,0.95060701,1,0.338847947,Ddc,rno04726
+rno04728,Dopaminergic synapse,Organismal Systems,Nervous system,1,218,130,9012,0.959507837,1,0.317995766,Ddc,rno04728
+rno04740,Olfactory transduction,Organismal Systems,Sensory system,1,218,1314,9012,1,1,0.031460768,Olr1585,rno04740
+rno04750,Inflammatory mediator regulation of TRP channels,Organismal Systems,Sensory system,5,218,114,9012,0.142208308,0.412142029,1.813133752,Il1b;Hrh1;Pik3cd;Ptger2;Il1rap,rno04750
+rno04810,Regulation of actin cytoskeleton,Cellular Processes,Cell motility,8,218,233,9012,0.203132191,0.498064507,1.419380242,Itgam;Itgb7;Fgd3;Arpc1b;Rac2;Pik3cd;Pdgfd;Nckap1l,rno04810
+rno04814,Motor proteins,Cellular Processes,Cell motility,5,218,190,9012,0.488559471,0.814270756,1.087880251,Tnnc1;Myo1f;Kif21b;Myo1g;Dynlt4,rno04814
+rno04910,Insulin signaling pathway,Organismal Systems,Endocrine system,5,218,138,9012,0.241906502,0.555731152,1.497806143,Socs3;Eif4ebp1;Ppp1r3d;Hk2;Pik3cd,rno04910
+rno04911,Insulin secretion,Organismal Systems,Endocrine system,2,218,85,9012,0.613681427,0.892323739,0.97269293,Atp1a3;Kcnmb4,rno04911
+rno04912,GnRH signaling pathway,Organismal Systems,Endocrine system,1,218,90,9012,0.89084133,0.987671909,0.459327217,Ptk2b,rno04912
+rno04914,Progesterone-mediated oocyte maturation,Organismal Systems,Endocrine system,3,218,91,9012,0.378526541,0.714994578,1.362838996,Cdc25b;Pik3cd;Aurka,rno04914
+rno04915,Estrogen signaling pathway,Organismal Systems,Endocrine system,2,218,134,9012,0.839691716,0.973659065,0.61700671,Mmp9;Pik3cd,rno04915
+rno04917,Prolactin signaling pathway,Organismal Systems,Endocrine system,2,218,75,9012,0.545326119,0.863715281,1.102385321,Socs3;Pik3cd,rno04917
+rno04918,Thyroid hormone synthesis,Organismal Systems,Endocrine system,1,218,73,9012,0.833846814,0.973659065,0.566293829,Atp1a3,rno04918
+rno04919,Thyroid hormone signaling pathway,Organismal Systems,Endocrine system,2,218,124,9012,0.806476089,0.973659065,0.666765315,Atp1a3;Pik3cd,rno04919
+rno04920,Adipocytokine signaling pathway,Organismal Systems,Endocrine system,4,218,72,9012,0.096338343,0.338039835,2.296636086,Socs3;Tnfrsf1a;Tnfrsf1b;Tnf,rno04920
+rno04921,Oxytocin signaling pathway,Organismal Systems,Endocrine system,1,218,154,9012,0.977714879,1,0.268437984,Trpm2,rno04921
+rno04923,Regulation of lipolysis in adipocytes,Organismal Systems,Endocrine system,1,218,57,9012,0.753449366,0.970351456,0.725253501,Pik3cd,rno04923
+rno04924,Renin secretion,Organismal Systems,Endocrine system,1,218,72,9012,0.829693937,0.973659065,0.574159021,Ptger2,rno04924
+rno04925,Aldosterone synthesis and secretion,Organismal Systems,Endocrine system,2,218,96,9012,0.679521965,0.933535077,0.861238532,Atp1a3;Nr4a1,rno04925
+rno04926,Relaxin signaling pathway,Organismal Systems,Endocrine system,4,218,127,9012,0.369184551,0.713853737,1.302029907,Nos2;Mmp9;Insl3;Pik3cd,rno04926
+rno04927,Cortisol synthesis and secretion,Organismal Systems,Endocrine system,1,218,68,9012,0.812023431,0.973659065,0.607933081,Nr4a1,rno04927
+rno04928,"Parathyroid hormone synthesis, secretion and action",Organismal Systems,Endocrine system,1,218,105,9012,0.92470259,1,0.393709043,Mmp25,rno04928
+rno04929,GnRH secretion,Organismal Systems,Endocrine system,1,218,64,9012,0.792528752,0.973659065,0.645928899,Pik3cd,rno04929
+rno04930,Type II diabetes mellitus,Human Diseases,Endocrine and metabolic disease,4,218,48,9012,0.028272115,0.141360576,3.444954128,Socs3;Tnf;Hk2;Pik3cd,rno04930
+rno04931,Insulin resistance,Human Diseases,Endocrine and metabolic disease,5,218,109,9012,0.124176459,0.381505987,1.896305025,Socs3;Tnfrsf1a;Tnf;Ppp1r3d;Pik3cd,rno04931
+rno04932,Non-alcoholic fatty liver disease,Human Diseases,Endocrine and metabolic disease,9,218,157,9012,0.013886383,0.093184941,2.369777362,Il1b;Socs3;Ndufa10l1;Tnfrsf1a;Cyp2e1;Il6r;Tnf;Bid;Pik3cd,rno04932
+rno04933,AGE-RAGE signaling pathway in diabetic complications,Human Diseases,Endocrine and metabolic disease,5,218,101,9012,0.097747234,0.338039835,2.046507403,Il1b;Pim1;Sele;Tnf;Pik3cd,rno04933
+rno04934,Cushing syndrome,Human Diseases,Endocrine and metabolic disease,2,218,158,9012,0.89938964,0.990462901,0.523284171,Nr4a1;E2f2,rno04934
+rno04935,"Growth hormone synthesis, secretion and action",Organismal Systems,Endocrine system,3,218,117,9012,0.541384579,0.862831672,1.059985886,Socs3;Junb;Pik3cd,rno04935
+rno04936,Alcoholic liver disease,Human Diseases,Endocrine and metabolic disease,8,218,134,9012,0.015916751,0.097245249,2.468026838,Il1b;Tnfrsf1a;Myd88;Cyp2e1;Scd;Il17ra;Tnf;Cd14,rno04936
+rno04940,Type I diabetes mellitus,Human Diseases,Endocrine and metabolic disease,3,218,67,9012,0.220385973,0.52199206,1.851020129,Il1b;Tnf;Cd80,rno04940
+rno04960,Aldosterone-regulated sodium reabsorption,Organismal Systems,Excretory system,3,218,38,9012,0.063422314,0.251849128,3.263640753,Atp1a3;Pik3cd;Hsd11b2,rno04960
+rno04961,Endocrine and other factor-regulated calcium reabsorption,Organismal Systems,Excretory system,1,218,59,9012,0.765307935,0.973659065,0.700668636,Atp1a3,rno04961
+rno04964,Proximal tubule bicarbonate reclamation,Organismal Systems,Excretory system,1,218,22,9012,0.416877611,0.728108156,1.879065888,Atp1a3,rno04964
+rno04966,Collecting duct acid secretion,Organismal Systems,Excretory system,1,218,27,9012,0.484246287,0.814270756,1.531090724,Slc4a1,rno04966
+rno04970,Salivary secretion,Organismal Systems,Digestive system,2,218,83,9012,0.600661095,0.892323739,0.996131314,Atp1a3;Camp,rno04970
+rno04971,Gastric acid secretion,Organismal Systems,Digestive system,1,218,75,9012,0.841852563,0.973659065,0.551192661,Atp1a3,rno04971
+rno04972,Pancreatic secretion,Organismal Systems,Digestive system,2,218,105,9012,0.726364534,0.959704436,0.787418087,Atp1a3;Cel,rno04972
+rno04973,Carbohydrate digestion and absorption,Organismal Systems,Digestive system,4,218,46,9012,0.024605878,0.125489978,3.594734743,Mgam;Atp1a3;Hk2;Pik3cd,rno04973
+rno04974,Protein digestion and absorption,Organismal Systems,Digestive system,5,218,103,9012,0.104062329,0.349156497,2.006769395,Eln;Atp1a3;Col5a3;Col11a2;Col9a2,rno04974
+rno04975,Fat digestion and absorption,Organismal Systems,Digestive system,2,218,44,9012,0.288211266,0.622829431,1.879065888,Dgat2;Cel,rno04975
+rno04976,Bile secretion,Organismal Systems,Digestive system,3,218,94,9012,0.398254131,0.715174672,1.319344134,Atp1a3;Aqp9;Abcb1b,rno04976
+rno04978,Mineral absorption,Organismal Systems,Digestive system,3,218,55,9012,0.147511207,0.413355581,2.254879066,Atp1a3;Tf;Mt2A,rno04978
+rno04979,Cholesterol metabolism,Organismal Systems,Digestive system,3,218,50,9012,0.119945299,0.373000624,2.480366972,Tspo;Angptl4;Lrp1,rno04979
+rno05010,Alzheimer disease,Human Diseases,Neurodegenerative disease,8,218,387,9012,0.725386986,0.959704436,0.854562264,Nos2;Il1b;Ndufa10l1;Tnfrsf1a;Tnf;Bid;Pik3cd;Lrp1,rno05010
+rno05012,Parkinson disease,Human Diseases,Neurodegenerative disease,1,218,266,9012,0.998656608,1,0.155411464,Ndufa10l1,rno05012
+rno05014,Amyotrophic lateral sclerosis,Human Diseases,Neurodegenerative disease,6,218,366,9012,0.883234673,0.985820929,0.677695894,Nos2;Ndufa10l1;Tnfrsf1a;Tnfrsf1b;Tnf;Bid,rno05014
+rno05016,Huntington disease,Human Diseases,Neurodegenerative disease,2,218,303,9012,0.995374432,1,0.272867654,Ndufa10l1;Sod2,rno05016
+rno05017,Spinocerebellar ataxia,Human Diseases,Neurodegenerative disease,1,218,143,9012,0.970692775,1,0.28908706,Pik3cd,rno05017
+rno05020,Prion disease,Human Diseases,Neurodegenerative disease,9,218,268,9012,0.201393434,0.498064507,1.388265097,Il1b;Ncf4;Ndufa10l1;Cav3;Ncf1;Ncf2;Tnf;Rac2;Pik3cd,rno05020
+rno05022,Pathways of neurodegeneration - multiple diseases,Human Diseases,Neurodegenerative disease,7,218,473,9012,0.944715134,1,0.611788894,Nos2;Il1b;Ndufa10l1;Tnfrsf1a;Tnfrsf1b;Tnf;Bid,rno05022
+rno05030,Cocaine addiction,Human Diseases,Substance dependence,1,218,47,9012,0.68459239,0.933535077,0.879562756,Ddc,rno05030
+rno05031,Amphetamine addiction,Human Diseases,Substance dependence,1,218,67,9012,0.807327786,0.973659065,0.61700671,Ddc,rno05031
+rno05034,Alcoholism,Human Diseases,Substance dependence,1,218,172,9012,0.985775707,1,0.240345637,Ddc,rno05034
+rno05100,Bacterial invasion of epithelial cells,Human Diseases,Infectious disease: bacterial,4,218,77,9012,0.115795953,0.364542816,2.147503872,Cav3;Hcls1;Arpc1b;Pik3cd,rno05100
+rno05132,Salmonella infection,Human Diseases,Infectious disease: bacterial,14,218,252,9012,0.003190916,0.026247854,2.296636086,Il1b;Nlrp3;Tlr2;Tnfrsf1a;Birc3;Myd88;Cyth4;Tnf;Arpc1b;Pik3cd;Tlr6;Nlrc4;Cd14;Nckap1l,rno05132
+rno05133,Pertussis,Human Diseases,Infectious disease: bacterial,7,218,73,9012,0.001851798,0.016864588,3.964056805,Nos2;Il1b;Nlrp3;Itgam;Myd88;Tnf;Cd14,rno05133
+rno05134,Legionellosis,Human Diseases,Infectious disease: bacterial,7,218,56,9012,0.000372765,0.00526722,5.167431193,Il1b;Tlr2;Itgam;Myd88;Tnf;Nlrc4;Cd14,rno05134
+rno05135,Yersinia infection,Human Diseases,Infectious disease: bacterial,13,218,135,9012,2.20E-05,0.000415196,3.980835882,Il1b;Nlrp3;Mefv;Myd88;Was;Ptk2b;Lcp2;Tnf;Arpc1b;Rac2;Pik3cd;Fyb1;Nlrc4,rno05135
+rno05140,Leishmaniasis,Human Diseases,Infectious disease: parasitic,10,218,71,9012,7.10E-06,0.000201079,5.822457682,Nos2;Il1b;Ncf4;Tlr2;Itgam;Fcgr1a;Myd88;Ncf1;Ncf2;Tnf,rno05140
+rno05142,Chagas disease,Human Diseases,Infectious disease: parasitic,8,218,104,9012,0.003629619,0.028047054,3.179957657,Nos2;Il1b;Tlr2;Tnfrsf1a;Myd88;Tnf;Pik3cd;Tlr6,rno05142
+rno05143,African trypanosomiasis,Human Diseases,Infectious disease: parasitic,4,218,40,9012,0.015407364,0.097245249,4.133944954,Il1b;Sele;Myd88;Tnf,rno05143
+rno05144,Malaria,Human Diseases,Infectious disease: parasitic,9,218,55,9012,5.81E-06,0.000201079,6.764637198,Il1b;Tlr2;Sele;Selp;Myd88;Ackr1;Tnf;Klrb1a;Lrp1,rno05144
+rno05145,Toxoplasmosis,Human Diseases,Infectious disease: parasitic,7,218,109,9012,0.016367878,0.097245249,2.654827035,Nos2;Tlr2;Tnfrsf1a;Birc3;Myd88;Il10ra;Tnf,rno05145
+rno05146,Amoebiasis,Human Diseases,Infectious disease: parasitic,8,218,96,9012,0.002202055,0.018717467,3.444954128,Nos2;Il1b;Il1r2;Tlr2;Itgam;Tnf;Pik3cd;Cd14,rno05146
+rno05150,Staphylococcus aureus infection,Human Diseases,Infectious disease: bacterial,10,218,98,9012,0.000121884,0.002072024,4.218311178,Ptafr;Fpr1;Selp;Itgam;Fpr2;Fcgr1a;Selplg;Cfd;Dsg1;Camp,rno05150
+rno05152,Tuberculosis,Human Diseases,Infectious disease: bacterial,19,218,176,9012,4.31E-08,3.67E-06,4.462781485,Nos2;Il1b;Clec4e;Tlr1;Tlr2;Tnfrsf1a;Itgam;Fcgr1a;Myd88;Coro1a;Camp;Il10ra;Syk;Fcer1g;Tnf;Bid;Lsp1;Tlr6;Cd14,rno05152
+rno05160,Hepatitis C,Human Diseases,Infectious disease: viral,10,218,158,9012,0.004953606,0.037152042,2.616420857,Ifit1bl;Socs3;Tnfrsf1a;Oas3;Cldn8;E2f2;Tnf;Bid;Pik3cd;Cldn15,rno05160
+rno05161,Hepatitis B,Human Diseases,Infectious disease: viral,9,218,156,9012,0.013361935,0.092089012,2.384968243,Tlr2;Mmp9;Myd88;Ptk2b;E2f2;Tnf;Bid;Pik3cd;Jak3,rno05161
+rno05162,Measles,Human Diseases,Infectious disease: viral,8,218,142,9012,0.021785006,0.118195244,2.328983073,Il1b;Tlr2;Tnfaip3;Myd88;Oas3;Bid;Pik3cd;Jak3,rno05162
+rno05163,Human cytomegalovirus infection,Human Diseases,Infectious disease: viral,15,218,244,9012,0.000837868,0.00890235,2.541359603,Il1b;Cxcr2;Tnfrsf1a;Ccr1l1;Il6r;Il10ra;Ccr3;Ptk2b;E2f2;Eif4ebp1;Tnf;Bid;Rac2;Pik3cd;Ptger2,rno05163
+rno05164,Influenza A,Human Diseases,Infectious disease: viral,9,218,168,9012,0.020706273,0.117335546,2.214613368,Il1b;Socs3;Nlrp3;Tnfrsf1a;Myd88;Oas3;Tnf;Bid;Pik3cd,rno05164
+rno05165,Human papillomavirus infection,Human Diseases,Infectious disease: viral,8,218,349,9012,0.612924886,0.892323739,0.947609159,Tnfrsf1a;Itgb7;Tnc;Eif4ebp1;Col9a2;Tnf;Pik3cd;Oasl,rno05165
+rno05166,Human T-cell leukemia virus 1 infection,Human Diseases,Infectious disease: viral,9,218,246,9012,0.142229406,0.412142029,1.512418886,Il1r2;Tnfrsf1a;Tspo;Relb;E2f2;Tnf;Spi1;Pik3cd;Jak3,rno05166
+rno05167,Kaposi sarcoma-associated herpesvirus infection,Human Diseases,Infectious disease: viral,10,218,212,9012,0.033058884,0.15826577,1.949974035,Tnfrsf1a;Ccr1l1;Ccr3;Syk;E2f2;Il6st;Bid;Pik3cd;Cd200r1;Hck,rno05167
+rno05168,Herpes simplex virus 1 infection,Human Diseases,Infectious disease: viral,16,218,381,9012,0.022369291,0.118836859,1.736039876,Il1b;Socs3;Tlr2;Tnfrsf1a;Birc3;Cfp;Myd88;Oas3;Tnfsf14;Syk;Eif4ebp1;Tnf;RGD1561730;Bid;Pik3cd;Pou2f2,rno05168
+rno05169,Epstein-Barr virus infection,Human Diseases,Infectious disease: viral,11,218,222,9012,0.018921466,0.109658495,2.048351103,Tlr2;Tnfaip3;Myd88;Oas3;Syk;Relb;E2f2;Tnf;Bid;Pik3cd;Jak3,rno05169
+rno05170,Human immunodeficiency virus 1 infection,Human Diseases,Infectious disease: viral,10,218,228,9012,0.050061968,0.216369525,1.813133752,Tlr2;Tnfrsf1a;Myd88;Tnfrsf1b;Ptk2b;Samhd1;Tnf;Bid;Rac2;Pik3cd,rno05170
+rno05171,Coronavirus disease - COVID-19,Human Diseases,Infectious disease: viral,13,218,286,9012,0.021466993,0.118195244,1.879065888,Il1b;Nlrp3;Tlr2;Selp;Tnfrsf1a;Myd88;Cfd;Oas3;Il6r;Syk;Il6st;Tnf;Pik3cd,rno05171
+rno05200,Pathways in cancer,Human Diseases,Cancer: overview,16,218,533,9012,0.218995078,0.52199206,1.240959086,Nos2;Csf3r;Pim1;Mmp9;Birc3;Csf2rb;Il6r;E2f2;Il6st;Rasgrp4;Spi1;Bid;Rac2;Pik3cd;Ptger2;Jak3,rno05200
+rno05202,Transcriptional misregulation in cancer,Human Diseases,Cancer: overview,10,218,189,9012,0.016398219,0.097245249,2.187272463,Il1r2;Mmp9;Itgam;Itgb7;Birc3;Fcgr1a;Lyl1;Spi1;Etv4;Cd14,rno05202
+rno05203,Viral carcinogenesis,Human Diseases,Cancer: overview,5,218,217,9012,0.607154191,0.892323739,0.952521879,Ccr3;Syk;Il6st;Pik3cd;Jak3,rno05203
+rno05204,Chemical carcinogenesis - DNA adducts,Human Diseases,Cancer: overview,1,218,76,9012,0.845710249,0.973659065,0.543940126,Cyp2e1,rno05204
+rno05205,Proteoglycans in cancer,Human Diseases,Cancer: overview,7,218,203,9012,0.22107899,0.52199206,1.42549826,Tlr2;Mmp9;Cav3;Hcls1;Tnf;Pik3cd;Ank1,rno05205
+rno05206,MicroRNAs in cancer,Human Diseases,Cancer: overview,7,218,164,9012,0.102793044,0.349156497,1.7644887,Cdc25b;Pim1;Mmp9;Tnc;E2f2;Pik3cd;Abcb1b,rno05206
+rno05207,Chemical carcinogenesis - receptor activation,Human Diseases,Cancer: overview,2,218,213,9012,0.967319,1,0.388163845,Eif4ebp1;Pik3cd,rno05207
+rno05208,Chemical carcinogenesis - reactive oxygen species,Human Diseases,Cancer: overview,6,218,231,9012,0.488562454,0.814270756,1.073751936,Ndufa10l1;Cyp2e1;Ncf1;Ncf2;Pik3cd;Sod2,rno05208
+rno05210,Colorectal cancer,Human Diseases,Cancer: specific types,2,218,88,9012,0.632601994,0.893782611,0.939532944,Rac2;Pik3cd,rno05210
+rno05211,Renal cell carcinoma,Human Diseases,Cancer: specific types,1,218,69,9012,0.81660515,0.973659065,0.599122457,Pik3cd,rno05211
+rno05212,Pancreatic cancer,Human Diseases,Cancer: specific types,3,218,75,9012,0.272328662,0.598653525,1.653577982,E2f2;Rac2;Pik3cd,rno05212
+rno05213,Endometrial cancer,Human Diseases,Cancer: specific types,1,218,59,9012,0.765307935,0.973659065,0.700668636,Pik3cd,rno05213
+rno05214,Glioma,Human Diseases,Cancer: specific types,2,218,74,9012,0.538046187,0.862831672,1.11728242,E2f2;Pik3cd,rno05214
+rno05215,Prostate cancer,Human Diseases,Cancer: specific types,5,218,99,9012,0.091633672,0.329106849,2.087850987,Il1r2;Mmp9;E2f2;Pik3cd;Pdgfd,rno05215
+rno05218,Melanoma,Human Diseases,Cancer: specific types,3,218,73,9012,0.259187735,0.579041783,1.698881488,E2f2;Pik3cd;Pdgfd,rno05218
+rno05219,Bladder cancer,Human Diseases,Cancer: specific types,2,218,41,9012,0.26113649,0.579041783,2.016558514,Mmp9;E2f2,rno05219
+rno05220,Chronic myeloid leukemia,Human Diseases,Cancer: specific types,2,218,78,9012,0.566684649,0.881125522,1.059985886,E2f2;Pik3cd,rno05220
+rno05221,Acute myeloid leukemia,Human Diseases,Cancer: specific types,7,218,68,9012,0.001219792,0.011520257,4.25553157,Pim1;Itgam;Fcgr1a;Eif4ebp1;Spi1;Pik3cd;Cd14,rno05221
+rno05222,Small cell lung cancer,Human Diseases,Cancer: specific types,4,218,91,9012,0.178124926,0.465554386,1.817118661,Nos2;Birc3;E2f2;Pik3cd,rno05222
+rno05223,Non-small cell lung cancer,Human Diseases,Cancer: specific types,3,218,73,9012,0.259187735,0.579041783,1.698881488,E2f2;Pik3cd;Jak3,rno05223
+rno05224,Breast cancer,Human Diseases,Cancer: specific types,2,218,148,9012,0.877567906,0.985820929,0.55864121,E2f2;Pik3cd,rno05224
+rno05225,Hepatocellular carcinoma,Human Diseases,Cancer: specific types,2,218,177,9012,0.931234702,1,0.467112424,E2f2;Pik3cd,rno05225
+rno05226,Gastric cancer,Human Diseases,Cancer: specific types,3,218,150,9012,0.70812328,0.953479677,0.826788991,E2f2;Pik3cd;Abcb1b,rno05226
+rno05230,Central carbon metabolism in cancer,Human Diseases,Cancer: overview,3,218,68,9012,0.226773286,0.53052466,1.823799244,Slc16a3;Hk2;Pik3cd,rno05230
+rno05231,Choline metabolism in cancer,Human Diseases,Cancer: overview,5,218,98,9012,0.088653571,0.322952295,2.109155589,Was;Eif4ebp1;Rac2;Pik3cd;Pdgfd,rno05231
+rno05235,PD-L1 expression and PD-1 checkpoint pathway in cancer,Human Diseases,Cancer: overview,5,218,89,9012,0.064196837,0.251849128,2.322440985,Tlr2;Pdcd1;Batf;Myd88;Pik3cd,rno05235
+rno05310,Asthma,Human Diseases,Immune disease,2,218,26,9012,0.129767852,0.389303556,3.179957657,Fcer1g;Tnf,rno05310
+rno05320,Autoimmune thyroid disease,Human Diseases,Immune disease,1,218,69,9012,0.81660515,0.973659065,0.599122457,Cd80,rno05320
+rno05321,Inflammatory bowel disease,Human Diseases,Immune disease,4,218,61,9012,0.059690546,0.245501438,2.710783576,Il1b;Tlr2;Il18rap;Tnf,rno05321
+rno05322,Systemic lupus erythematosus,Human Diseases,Immune disease,3,218,116,9012,0.53555488,0.862831672,1.069123695,Fcgr1a;Tnf;Cd80,rno05322
+rno05323,Rheumatoid arthritis,Human Diseases,Immune disease,5,218,86,9012,0.057009922,0.238320165,2.403456369,Il1b;Tlr2;Ltb;Tnf;Cd80,rno05323
+rno05330,Allograft rejection,Human Diseases,Immune disease,2,218,60,9012,0.428146165,0.742702531,1.377981651,Tnf;Cd80,rno05330
+rno05332,Graft-versus-host disease,Human Diseases,Immune disease,3,218,59,9012,0.170891334,0.453930107,2.102005909,Il1b;Tnf;Cd80,rno05332
+rno05340,Primary immunodeficiency,Human Diseases,Immune disease,1,218,36,9012,0.586576278,0.891459877,1.148318043,Jak3,rno05340
+rno05410,Hypertrophic cardiomyopathy,Human Diseases,Cardiovascular disease,3,218,91,9012,0.378526541,0.714994578,1.362838996,Itgb7;Tnnc1;Tnf,rno05410
+rno05412,Arrhythmogenic right ventricular cardiomyopathy,Human Diseases,Cardiovascular disease,1,218,77,9012,0.849474256,0.973659065,0.536875968,Itgb7,rno05412
+rno05414,Dilated cardiomyopathy,Human Diseases,Cardiovascular disease,3,218,94,9012,0.398254131,0.715174672,1.319344134,Itgb7;Tnnc1;Tnf,rno05414
+rno05415,Diabetic cardiomyopathy,Human Diseases,Cardiovascular disease,7,218,210,9012,0.246216861,0.560583031,1.377981651,Ncf4;Ndufa10l1;Mmp9;Ncf1;Ncf2;Rac2;Pik3cd,rno05415
+rno05416,Viral myocarditis,Human Diseases,Cardiovascular disease,3,218,82,9012,0.318757397,0.671761456,1.512418886,Bid;Rac2;Cd80,rno05416
+rno05417,Lipid and atherosclerosis,Human Diseases,Cardiovascular disease,18,218,208,9012,2.67E-06,0.000131087,3.577452364,Il1b;Nlrp3;Ncf4;Tlr2;Mmp9;Sele;Selp;Tnfrsf1a;Myd88;Ncf1;Ncf2;Tnf;Bid;Pik3cd;Sod2;Pou2f2;Tlr6;Cd14,rno05417
+rno05418,Fluid shear stress and atherosclerosis,Human Diseases,Cardiovascular disease,11,218,149,9012,0.000956103,0.009752247,3.051905671,Il1b;Il1r2;Mmp9;Sele;Tnfrsf1a;Cav3;Ncf1;Ncf2;Tnf;Rac2;Pik3cd,rno05418
